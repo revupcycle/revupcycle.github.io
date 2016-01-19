@@ -1,8 +1,28 @@
 #h1 {
 	text-align: center;
-	color: rgb(255,255,255);
+	color: rgb(40,40,40);
 	font-style: normal;
 	font-family: Verdana, sans-serif;
 	font-size: 2.5em; /* 40px/16=2.5em */
 	font-weight: 700;
+}
+
+#p {
+	text-align: center;
+	color: rgb(40,40,40);
+	font-style: italic;
+	font-family: Verdana, sans-serif;
+	font-size: 0.5em; /* 8px/16=0.5em */
+	font-weight: 300;
+}
+
+#img {
+margin: 5px;
+border: 1px solid #ccc;
+float: center;
+width: 180px;
+}
+
+#body {
+	background-color: rgb(255,255,255);
 }
