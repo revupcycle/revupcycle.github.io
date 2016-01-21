@@ -37,15 +37,13 @@ p#p02 {
 }
 
 li {
-	display: inline-block;
-	text-align: center;
-	margin: 0px auto;
+	display: inline;
+	margin-right: 10px;
 	color: rgb(50,50,50);
 	font-style: normal;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 1.0em; /* 16px/16=1.0em */
 	font-weight: normal;
-	word-spacing: 1.5em;
 }
 
 #body {
