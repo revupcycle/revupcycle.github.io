@@ -1,9 +1,9 @@
-#h1 {
+h1 {
 	text-align: center;
-	color: rgb(40,40,40);
+	color: rgb(DarkCyan);
 	font-style: normal;
-	font-family: Helvetica, sans-serif;
-	font-size: 2.5em; /* 40px/16=2.5em */
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 4.0em; /* 64px/16=4.0em */
 	font-weight: bold;
 	letter-spacing: 0.1em;
 
@@ -11,10 +11,10 @@
 
 p#p01 {
 	text-align: center;
-	color: rgb(40,40,40);
+	color: rgb(102,205,200);
 	font-style: italic;
-	font-family: Helvetica, sans-serif;
-	font-size: 1.0em; /* 8px/16=0.5em */
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1.0em; /* 16px/16=0.5em */
 	font-weight: normal;
 }
 
@@ -25,22 +25,32 @@ margin: 5px;
 
 p#p02 {
 	text-align: center;
-	color: rgb(40,40,40);
+	color: rgb(102,205,200);
 	font-style: normal;
-	font-family: Helvetica, sans-serif;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 1.5em; /* 24px/16=1.5em */
 	font-weight: normal;
 }
 
-#ul {
+.ul {
 	text-align: center;
-	color: rgb(40,40,40);
+	color: rgb(102,205,200);
 	font-style: normal;
-	font-family: Helvetica, sans-serif;
-	font-size: 1.5em; /* 24px/16=1.5em */
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1.0em; /* 16px/16=1.0em */
 	font-weight: normal;
+	word-spacing: 1.5em;
 }
 
 #body {
 	background-color: rgb(255,255,255);
+}
+
+p#p03 {
+	text-align: center;
+	color: rgb(102,205,200);
+	font-style: normal;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1.0em; /* 16px/16=1.0em */
+	font-weight: normal;
 }
