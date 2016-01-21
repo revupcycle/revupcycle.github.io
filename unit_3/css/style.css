@@ -21,8 +21,6 @@ p#p01 {
 
 img.align-center {
 	display: block;
-	height: 200px
-	width: 275px
 	margin: 0px auto;
 	box-shadow: 0 0 10px #777777;
 }
@@ -39,7 +37,7 @@ p#p02 {
 }
 
 li {
-	display: inline;
+	display: inline-block;
 	text-align: center;
 	margin: 0px auto;
 	color: rgb(50,50,50);
