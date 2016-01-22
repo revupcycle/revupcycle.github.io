@@ -38,6 +38,7 @@ p#p02 {
 
 li {
 	display: inline;
+	text-indent: 50px;
 	margin-right: 10px;
 	color: rgb(50,50,50);
 	font-style: normal;
