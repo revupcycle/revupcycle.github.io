@@ -36,15 +36,23 @@ p#p02 {
 	font-weight: normal;
 }
 
-ul#pages li {
-	display: inline;
+#navigate ul {
+	list-style-type: none;
 	text-align: center;
-	word-spacing: 15px;
-	color: rgb(50,50,50);
 	font-style: normal;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 1.0em; /* 16px/16=1.0em */
 	font-weight: normal;
+}
+#navigate ul li {
+	display: inline;
+}
+#navigate ul li a {
+	text-decoration: none;
+	color: rgb(50,50,50);
+}
+#navigate ul li a:hover {
+	color: rgb(102,205,170);
 }
 
 #body {
