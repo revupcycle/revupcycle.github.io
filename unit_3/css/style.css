@@ -36,9 +36,8 @@ p#p02 {
 	font-weight: normal;
 }
 
-.pages {
+ul#pages li {
 	display: inline;
-	text-indent: 50px;
 	margin-right: 10px;
 	color: rgb(50,50,50);
 	font-style: normal;
