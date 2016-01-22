@@ -38,8 +38,8 @@ p#p02 {
 
 ul#pages li {
 	display: inline;
-	text-indent: 50px
-	margin-right: 10px;
+	text-align: center
+	margin-right: 15px;
 	color: rgb(50,50,50);
 	font-style: normal;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
