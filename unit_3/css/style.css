@@ -36,11 +36,10 @@ p#p02 {
 	font-weight: normal;
 }
 
-ul#pages {
+ul#pages li {
 	display: inline;
 	text-align: center;
 	word-spacing: 15px;
-	margin:20px auto 20px auto;
 	color: rgb(50,50,50);
 	font-style: normal;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
