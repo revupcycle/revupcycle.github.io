@@ -8,6 +8,10 @@ p#p01 {
 	word-spacing: 1.5em;
 }
 
+p#p01 a:hover {
+	color: rgb(102,205,170);
+}
+
 img.align-center {
 	display: block;
 	margin: 0px auto;
@@ -46,6 +50,7 @@ p#p02 {
 }
 #navigate ul li {
 	display: inline;
+	word-spacing: 25px;
 }
 #navigate ul li a {
 	text-decoration: none;
