@@ -9,7 +9,12 @@ p#p01 {
 }
 
 p#p01 a:hover {
-	color: rgb(102,205,170);
+	color: rgb(255,255,255);
+	border-style: solid;
+	border-color: rgb(70,70,70);
+	padding: 5px;
+	margin: 10px;
+	background-color: rbg(70,70,70);
 }
 
 img.align-center {
@@ -50,14 +55,19 @@ p#p02 {
 }
 #navigate ul li {
 	display: inline;
-	word-spacing: 25px;
+	margin-right: 25px;
 }
 #navigate ul li a {
 	text-decoration: none;
-	color: rgb(50,50,50);
+	color: rgb(670,70,70);
 }
 #navigate ul li a:hover {
-	color: rgb(102,205,170);
+	color: rgb(255,255,255);
+	border-style: solid;
+	border-color: rgb(70,70,70);
+	padding: 5px;
+	margin: 10px;
+	background-color: rbg(70,70,70);
 }
 
 #body {
