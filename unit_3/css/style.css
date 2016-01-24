@@ -1,20 +1,28 @@
-p#p01 {
+#tagline ul {
+	list-style-type: none;
 	text-align: center;
-	color: rgb(70,70,70);
 	font-style: normal;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	font-size: 1.0em; /* 16px/16=0.5em */
+	font-size: 1.0em; /* 16px/16=1.0em */
 	font-weight: normal;
-	word-spacing: 1.5em;
 }
 
-p#p01 a:hover {
+#tagline ul li {
+	display: inline;
+	margin-right: 25px;
+}
+#tagline ul li a {
+	text-decoration: none;
+	color: rgb(70,70,70);
+}
+#tagline ul li a:hover {
 	color: rgb(255,255,255);
 	border-style: solid;
 	border-color: rgb(70,70,70);
 	padding: 5px;
 	margin: 10px;
-	background-color: rbg(70,70,70);
+	background-color: rgb(70,70,70);
+}
 }
 
 img.align-center {
@@ -34,7 +42,7 @@ h1 {
 
 }
 
-p#p02 {
+p#p01 {
 	text-align: center;
 	width: 500px;
 	margin: 20px auto 20px auto;
@@ -59,7 +67,7 @@ p#p02 {
 }
 #navigate ul li a {
 	text-decoration: none;
-	color: rgb(670,70,70);
+	color: rgb(70,70,70);
 }
 #navigate ul li a:hover {
 	color: rgb(255,255,255);
@@ -67,14 +75,14 @@ p#p02 {
 	border-color: rgb(70,70,70);
 	padding: 5px;
 	margin: 10px;
-	background-color: rbg(70,70,70);
+	background-color: rgb(70,70,70);
 }
 
 #body {
 	background-color: rgb(255,255,255);
 }
 
-p#p03 {
+p#p02 {
 	text-align: center;
 	color: rgb(70,70,70);
 	font-style: normal;
