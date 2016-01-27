@@ -5,8 +5,8 @@
 	list-style-type: none;
 	text-align: center;
 	font-style: normal;
-	font-family: 'Tenor Sans', sans-serif;
-	font-size: 1.0em; /* 16px/16=1.0em */
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 1.5em; /* 16px/16=1.0em */
 	font-weight: normal;
 }
 
@@ -31,7 +31,6 @@
 
 img.align-center {
 	display: block;
-	margin: 0px auto;
 	box-shadow: 0 0 10px #777777;
 }
 
@@ -43,6 +42,7 @@ h1 {
 	font-size: 4.0em; /* 64px/16=4.0em */
 	font-weight: bold;
 	letter-spacing: 0.2em;
+	margin: 0px auto;
 
 }
 
