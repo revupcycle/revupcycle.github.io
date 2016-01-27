@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
-@import url(https://fonts.googleapis.com/css?family=Lora);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
 #tagline ul {
 	list-style-type: none;
@@ -54,7 +54,7 @@ p#p01 {
 	color: rgb(50,50,50);
 	font-style: normal;
 	font-family: 'Lora', serif;
-	font-size: 1.25em; /* 24px/16=1.5em */
+	font-size: 1.0em; /* 16px/16=1.5em */
 	font-weight: normal;
 }
 
