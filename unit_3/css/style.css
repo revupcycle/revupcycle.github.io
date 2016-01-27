@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,400italic,600,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
 #tagline ul {
@@ -13,6 +13,7 @@
 #tagline ul li {
 	display: inline;
 	margin-right: 25px;
+	margin-bottom: 20px;
 }
 
 #tagline ul li a {
@@ -41,9 +42,9 @@ h1 {
 	font-style: normal;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 4.0em; /* 64px/16=4.0em */
-	font-weight: bold;
+	font-weight: semi-bold;
 	letter-spacing: 0.2em;
-	margin: 0px auto;
+	margin-top: 20px;
 
 }
 
@@ -53,7 +54,7 @@ p#p01 {
 	margin: 20px auto 20px auto;
 	color: rgb(50,50,50);
 	font-style: normal;
-	font-family: 'Lora', serif;
+	font-family: 'Josefin sans', sans-serif;
 	font-size: 1.0em; /* 16px/16=1.5em */
 	font-weight: normal;
 }
