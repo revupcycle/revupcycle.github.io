@@ -5,7 +5,7 @@
 	list-style-type: none;
 	text-align: center;
 	font-style: normal;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Tenor Sans', sans-serif;
 	font-size: 1.0em; /* 16px/16=1.0em */
 	font-weight: normal;
 }
@@ -39,10 +39,10 @@ h1 {
 	text-align: center;
 	color: rgb(13,25,21);
 	font-style: normal;
-	font-family: 'Tenor Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 	font-size: 4.0em; /* 64px/16=4.0em */
 	font-weight: bold;
-	letter-spacing: 0.1em;
+	letter-spacing: 0.2em;
 
 }
 
