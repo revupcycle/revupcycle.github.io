@@ -21,7 +21,11 @@
 }
 
 #tagline ul li a:hover {
-	color: rgb(0,43,28);
+	color: rgb(68,94,68);
+	font-style: italic;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 1.25em; /* 20px/16=1.0em */
+	font-weight: normal;
 }
 
 img.align-center {
@@ -36,7 +40,7 @@ h1 {
 	font-style: normal;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 4.0em; /* 64px/16=4.0em */
-	font-weight: semi-bold;
+	font-weight: 600;
 	letter-spacing: 0.2em;
 	margin-top: 40px;
 
@@ -72,12 +76,11 @@ p#p01 {
 	color: rgb(70,70,70);
 }
 #navigate ul li a:hover {
-	color: rgb(255,255,255);
-	border-style: solid;
-	border-color: rgb(70,70,70);
-	padding: 5px;
-	margin: 10px;
-	background-color: rgb(70,70,70);
+	color: rgb(68,94,68);
+	font-style: italic;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 1.25em; /* 20px/16=1.0em */
+	font-weight: normal;
 }
 
 #body {
