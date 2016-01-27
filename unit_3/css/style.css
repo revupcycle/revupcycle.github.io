@@ -21,12 +21,7 @@
 }
 
 #tagline ul li a:hover {
-	color: rgb(255,255,255);
-	border-style: solid;
-	border-color: rgb(70,70,70);
-	padding: 5px;
-	margin: 10px;
-	background-color: rgb(70,70,70);
+	color: rgb(0,43,28);
 }
 
 img.align-center {
@@ -70,6 +65,7 @@ p#p01 {
 #navigate ul li {
 	display: inline;
 	margin-right: 25px;
+	width: 500px;
 }
 #navigate ul li a {
 	text-decoration: none;
