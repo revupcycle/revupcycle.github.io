@@ -17,14 +17,14 @@
 
 #tagline ul li a {
 	text-decoration: none;
-	color: rgb(70,70,70);
+	color: rgb(79,110,79);
 }
 
 #tagline ul li a:hover {
-	color: rgb(68,94,68);
+	color: rgb(70,70,70);
 	font-style: italic;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 1.25em; /* 20px/16=1.0em */
+	font-size: 1.0em; /* 16px/16=1.0em */
 	font-weight: normal;
 }
 
