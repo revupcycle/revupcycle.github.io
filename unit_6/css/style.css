@@ -112,6 +112,7 @@ nav ul li a:hover {
 	padding: 10px
 	float: right;
 	width: 62%;
+	position: relative;
 }
 
 footer {
