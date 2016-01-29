@@ -43,7 +43,7 @@ h1 {
 	margin-top: 0 auto;
 }
 
-#intro {
+p#intro {
 	text-align: center;
 	width: 500px;
 	margin: 0 auto;
@@ -56,8 +56,7 @@ h1 {
 	line-height: 1.5em;
 }
 
-nav ul {
-	background-color: rgb(109,127,86)
+#navigate ul {
 	list-style-type: none;
 	text-align: center;
 	font-style: normal;
@@ -65,16 +64,16 @@ nav ul {
 	font-size: 1.25em; /* 20px/16=1.0em */
 	font-weight: normal;
 }
-nav ul li {
+#navigate ul li {
 	display: inline;
 	margin-right: 25px;
 	width: 500px;
 }
-nav ul li a {
+#navigate ul li a {
 	text-decoration: none;
 	color: rgb(70,70,70);
 }
-nav ul li a:hover {
+#navigate ul li a:hover {
 	color: rgb(68,94,68);
 	font-style: italic;
 	font-family: 'Josefin Sans', sans-serif;
@@ -82,10 +81,7 @@ nav ul li a:hover {
 	font-weight: normal;
 }
 
-
-
-footer {
-	background-color: rgb(146,204,76)
+#footer {
 	text-align: center;
 	color: rgb(70,70,70);
 	font-style: normal;
