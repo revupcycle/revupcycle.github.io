@@ -99,15 +99,19 @@ nav ul li a:hover {
 }
 
 #left {
-	background-color: #E582A2;
+	background-color: violet;
 	border: 1px black solid;
 	padding: 20px
+	float: left;
+	width: 30%;
 }
 
 #right {
-	background-color: #E55B88;
+	background-color: pink;
 	border: 1px black solid;
 	padding: 20px
+	float: right;
+	width: 62%;
 }
 
 footer {
