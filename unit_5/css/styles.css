@@ -1,5 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,400italic,600,700);
 
+div,header {
+	background-color: rgb(217,255,172)
+}
+
 #tagline ul {
 	list-style-type: none;
 	text-align: center;
@@ -27,6 +31,7 @@
 }
 
 img {
+	display: block;
 	margin: 0 auto;
 	box-shadow: 0 0 10px #777777;
 }
@@ -45,8 +50,9 @@ header {
 #intro {
 	text-align: center;
 	width: 500px;
-	margin: 20px auto 20px auto;
+	margin: 0 auto;
 	color: rgb(50,50,50);
+	background-color: rgb(183,255,95)
 	font-style: normal;
 	font-family: 'Josefin sans', sans-serif;
 	font-size: 1.25em; /* 20px/16=1.5em */
@@ -55,6 +61,7 @@ header {
 }
 
 nav ul {
+	background-color: rgb(109,127,86)
 	list-style-type: none;
 	text-align: center;
 	font-style: normal;
@@ -79,11 +86,10 @@ nav ul li a:hover {
 	font-weight: normal;
 }
 
-body {
-	background-color: rgb(255,255,255);
-}
+
 
 footer {
+	background-color: rgb(146,204,76)
 	text-align: center;
 	color: rgb(70,70,70);
 	font-style: normal;
