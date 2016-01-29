@@ -8,19 +8,16 @@
 	font-size: 1.25em; /* 20px/16=1.0em */
 	font-weight: normal;
 }
-
 #tagline ul li {
 	display: inline;
 	width: 500px;
 	margin-right: 25px;
 	margin: 0 auto;
 }
-
 #tagline ul li a {
 	text-decoration: none;
 	color: rgb(79,110,79);
 }
-
 #tagline ul li a:hover {
 	color: rgb(70,70,70);
 	font-style: italic;
@@ -29,13 +26,12 @@
 	font-weight: normal;
 }
 
-img.align-center {
-	display: block;
+img {
 	margin: 0 auto;
 	box-shadow: 0 0 10px #777777;
 }
 
-h1 {
+header {
 	text-align: center;
 	color: rgb(79,110,79);
 	font-style: normal;
@@ -44,10 +40,9 @@ h1 {
 	font-weight: 600;
 	letter-spacing: 0.2em;
 	margin-top: 0 auto;
-
 }
 
-p#p01 {
+#intro {
 	text-align: center;
 	width: 500px;
 	margin: 20px auto 20px auto;
@@ -59,7 +54,7 @@ p#p01 {
 	line-height: 1.5em;
 }
 
-#navigate ul {
+nav ul {
 	list-style-type: none;
 	text-align: center;
 	font-style: normal;
@@ -67,16 +62,16 @@ p#p01 {
 	font-size: 1.25em; /* 20px/16=1.0em */
 	font-weight: normal;
 }
-#navigate ul li {
+nav ul li {
 	display: inline;
 	margin-right: 25px;
 	width: 500px;
 }
-#navigate ul li a {
+nav ul li a {
 	text-decoration: none;
 	color: rgb(70,70,70);
 }
-#navigate ul li a:hover {
+nav ul li a:hover {
 	color: rgb(68,94,68);
 	font-style: italic;
 	font-family: 'Josefin Sans', sans-serif;
@@ -84,11 +79,11 @@ p#p01 {
 	font-weight: normal;
 }
 
-#body {
+body {
 	background-color: rgb(255,255,255);
 }
 
-p#p02 {
+footer {
 	text-align: center;
 	color: rgb(70,70,70);
 	font-style: normal;
