@@ -48,7 +48,6 @@ p#intro {
 	width: 500px;
 	margin: 0 auto;
 	color: rgb(50,50,50);
-	background-color: rgb(183,255,95)
 	font-style: normal;
 	font-family: 'Josefin sans', sans-serif;
 	font-size: 1.25em; /* 20px/16=1.5em */
@@ -81,7 +80,7 @@ p#intro {
 	font-weight: normal;
 }
 
-#footer {
+p#contact {
 	text-align: center;
 	color: rgb(70,70,70);
 	font-style: normal;
