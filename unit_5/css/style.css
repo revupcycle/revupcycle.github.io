@@ -32,7 +32,7 @@ img.align-center {
 	box-shadow: 0 0 10px #777777;
 }
 
-h1 {
+header {
 	text-align: center;
 	color: rgb(79,110,79);
 	font-style: normal;
@@ -43,7 +43,7 @@ h1 {
 	margin-top: 0 auto;
 }
 
-p#intro {
+#intro {
 	text-align: center;
 	width: 500px;
 	margin: 0 auto;
@@ -55,7 +55,7 @@ p#intro {
 	line-height: 1.5em;
 }
 
-#navigate ul {
+nav ul {
 	list-style-type: none;
 	text-align: center;
 	font-style: normal;
@@ -63,16 +63,16 @@ p#intro {
 	font-size: 1.25em; /* 20px/16=1.0em */
 	font-weight: normal;
 }
-#navigate ul li {
+nav ul li {
 	display: inline;
 	margin-right: 25px;
 	width: 500px;
 }
-#navigate ul li a {
+nav ul li a {
 	text-decoration: none;
 	color: rgb(70,70,70);
 }
-#navigate ul li a:hover {
+nav ul li a:hover {
 	color: rgb(68,94,68);
 	font-style: italic;
 	font-family: 'Josefin Sans', sans-serif;
