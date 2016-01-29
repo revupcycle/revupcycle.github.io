@@ -30,13 +30,13 @@ div,header {
 	font-weight: normal;
 }
 
-img {
+img.align-center {
 	display: block;
 	margin: 0 auto;
 	box-shadow: 0 0 10px #777777;
 }
 
-header {
+h1 {
 	text-align: center;
 	color: rgb(79,110,79);
 	font-style: normal;
