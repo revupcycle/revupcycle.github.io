@@ -101,7 +101,7 @@ nav ul li a:hover {
 .two_column aside {
 	background-color: violet;
 	border: 1px black solid;
-	padding: 20px
+	padding: 10px
 	float: left;
 	width: 30%;
 }
@@ -109,7 +109,7 @@ nav ul li a:hover {
 .two_column article {
 	background-color: pink;
 	border: 1px black solid;
-	padding: 20px
+	padding: 10px
 	float: right;
 	width: 62%;
 }
