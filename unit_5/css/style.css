@@ -1,24 +1,27 @@
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,400italic,600,700);
 
-#tagline ul {
+.tagline ul {
 	list-style-type: none;
 	text-align: center;
 	font-style: normal;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 1.25em; /* 20px/16=1.0em */
 	font-weight: normal;
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
 }
-#tagline ul li {
+.tagline ul li {
 	display: inline;
 	width: 500px;
 	margin-right: 25px;
 	margin: 0 auto;
 }
-#tagline ul li a {
+.tagline ul li a {
 	text-decoration: none;
 	color: rgb(79,110,79);
 }
-#tagline ul li a:hover {
+.tagline ul li a:hover {
 	color: rgb(70,70,70);
 	font-style: italic;
 	font-family: 'Josefin Sans', sans-serif;
@@ -41,6 +44,9 @@ header {
 	font-weight: 600;
 	letter-spacing: 0.2em;
 	margin-top: 0 auto;
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 #intro {
@@ -53,6 +59,9 @@ header {
 	font-size: 1.25em; /* 20px/16=1.5em */
 	font-weight: normal;
 	line-height: 1.5em;
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 nav ul {
@@ -62,6 +71,9 @@ nav ul {
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 1.25em; /* 20px/16=1.0em */
 	font-weight: normal;
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
 }
 nav ul li {
 	display: inline;
@@ -80,11 +92,14 @@ nav ul li a:hover {
 	font-weight: normal;
 }
 
-#contact {
+footer {
 	text-align: center;
 	color: rgb(70,70,70);
 	font-style: normal;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 0.75em; /* 12px/16=0.75em */
 	font-weight: normal;
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
