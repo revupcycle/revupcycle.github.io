@@ -1,9 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,400italic,600,700);
 
-div,header {
-	background-color: rgb(217,255,172)
-}
-
 #tagline ul {
 	list-style-type: none;
 	text-align: center;
