@@ -92,13 +92,13 @@ nav ul li a:hover {
 	font-weight: normal;
 }
 
-div {
+.two_column {
 	background-color: #FFB7CF;
 	border: 1px black solid;
 	padding: 20px;
 }
 
-div aside {
+.two_column aside {
 	background-color: violet;
 	border: 1px black solid;
 	padding: 20px
@@ -106,7 +106,7 @@ div aside {
 	width: 30%;
 }
 
-div article {
+.two_column article {
 	background-color: pink;
 	border: 1px black solid;
 	padding: 20px
