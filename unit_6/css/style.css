@@ -92,15 +92,16 @@ nav ul li a:hover {
 	font-weight: normal;
 }
 
-#two_column {
+#column1of2, #column2of2 {
 	background-color: #FFB7CF;
 	border: 1px black solid;
 	padding: 20px;
 	width: 100%;
+	float: left;
 	overflow: auto;
 }
 
-#two_column aside {
+#column1of2 aside {
 	background-color: violet;
 	border: 1px black solid;
 	padding: 10px
@@ -108,16 +109,12 @@ nav ul li a:hover {
 	width: 30%;
 }
 
-#two_column article {
+#column2of2 article {
 	background-color: pink;
 	border: 1px black solid;
 	padding: 10px
 	float: right;
-	width: 62%;
-}
-
-.clear {
-	clear: left;
+	width: 62%
 }
 
 footer {
