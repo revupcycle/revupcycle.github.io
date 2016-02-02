@@ -101,7 +101,7 @@ nav ul li a:hover {
 	overflow: auto;
 }
 
-#column1of2 aside {
+#column1of2 {
 	background-color: violet;
 	border: 1px black solid;
 	padding: 10px
@@ -109,7 +109,7 @@ nav ul li a:hover {
 	width: 30%;
 }
 
-#column2of2 article {
+#column2of2 {
 	background-color: pink;
 	border: 1px black solid;
 	padding: 10px
