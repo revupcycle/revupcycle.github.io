@@ -96,7 +96,8 @@ nav ul li a:hover {
 	background-color: #FFB7CF;
 	border: 1px black solid;
 	padding: 20px;
-	width: 750px;
+	width: 100%;
+	overflow: auto;
 }
 
 #two_column aside {
@@ -113,10 +114,6 @@ nav ul li a:hover {
 	padding: 10px
 	float: right;
 	width: 62%;
-}
-
-.clear {
-	clear: left;
 }
 
 footer {
