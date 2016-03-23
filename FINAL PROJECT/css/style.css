@@ -1,0 +1,139 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,400italic,600,700);
+
+.tagline ul {
+	list-style-type: none;
+	text-align: center;
+	font-style: normal;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 1.25em; /* 20px/16=1.0em */
+	font-weight: normal;
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	padding: 1.25%;
+}
+.tagline ul li {
+	display: inline;
+	width: 50%;
+	margin-right: 1.25%;
+}
+.tagline ul li a {
+	text-decoration: none;
+	color: rgb(79,110,79);
+}
+.tagline ul li a:hover {
+	color: rgb(70,70,70);
+	font-style: italic;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 1.0em; /* 16px/16=1.0em */
+	font-weight: normal;
+}
+
+img.align-center {
+	display: block;
+	margin: 0 auto;
+	box-shadow: 0 0 10px #777777;
+}
+
+header {
+	text-align: center;
+	color: rgb(79,110,79);
+	font-style: normal;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 4.0em; /* 64px/16=4.0em */
+	font-weight: 600;
+	letter-spacing: 0.2em;
+	margin-top: 0 auto;
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	padding: 1.25%;
+}
+
+#intro {
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+	color: rgb(50,50,50);
+	font-style: normal;
+	font-family: 'Josefin sans', sans-serif;
+	font-size: 1.25em; /* 20px/16=1.5em */
+	font-weight: normal;
+	line-height: 1.5em;
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav ul {
+	list-style-type: none;
+	text-align: center;
+	font-style: normal;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 1.25em; /* 20px/16=1.0em */
+	font-weight: normal;
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	padding: 1.25%;
+}
+nav ul li {
+	display: inline;
+	width: 50%;
+	padding: 1.25%;
+}
+nav ul li a {
+	text-decoration: none;
+	color: rgb(70,70,70);
+}
+nav ul li a:hover {
+	color: rgb(68,94,68);
+	font-style: italic;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 1.0em; /* 16px/16=1.0em */
+	font-weight: normal;
+}
+
+#column1of2, #column2of2 {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 4%;
+	width: 100%;
+	float: center;
+	overflow: auto;
+}
+
+#column1of2 {
+	background-color: violet;
+	border: 1px black solid;
+	padding: 1.25%;
+	float: center;
+	width: 50%;
+}
+
+#column2of2 {
+	background-color: pink;
+	border: 1px black solid;
+	padding: 2%
+	float: center;
+	width: 50%
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+footer {
+	text-align: center;
+	color: rgb(70,70,70);
+	font-style: normal;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 0.8em; /* 12px/16=0.75em */
+	font-weight: normal;
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	width: 50%;
+	padding: 1.25%;
+}
