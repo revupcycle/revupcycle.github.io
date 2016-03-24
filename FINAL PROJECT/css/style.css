@@ -1,7 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,400italic,600,700);
 
-header {
+body {
 	text-align: center;
+}
+
+header {
 	color: rgb(79,110,79);
 	font-style: normal;
 	font-family: 'Josefin Sans', sans-serif;
@@ -11,17 +14,13 @@ header {
 	margin: 0 auto 10px auto;
 	background-color: #FFFFFF;
 	border-color: #323232;
-	border-top-style: solid;
-	border-bottom-style: solid;
+	border-style: solid none solid none;
 	border-width: 1px 0 3px 0;
-	border-left-style: none;
-	border-right-style: none;
 	padding: 10px;
 }
 
 .tagline ul {
 	list-style-type: none;
-	text-align: center;
 	font-style: normal;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 1.25em; /* 20px/16=1.0em */
@@ -54,7 +53,6 @@ img.align-center {
 }
 
 #intro {
-	text-align: center;
 	width: 50%;
 	margin: 0 auto;
 	color: rgb(79,110,79);
@@ -70,11 +68,11 @@ img.align-center {
 
 nav ul {
 	list-style-type: none;
-	text-align: center;
 	font-style: normal;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 1.25em; /* 20px/16=1.0em */
 	font-weight: normal;
+	margin: 10px auto;
 	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 1.25%;
@@ -96,42 +94,7 @@ nav ul li a:hover {
 	font-weight: normal;
 }
 
-#column1of2, #column2of2 {
-	background-color: #FFB7CF;
-	border: 1px black solid;
-	padding: 4%;
-	width: 100%;
-	float: center;
-	overflow: auto;
-}
-
-#column1of2 {
-	background-color: violet;
-	border: 1px black solid;
-	padding: 1.25%;
-	float: center;
-	width: 50%;
-}
-
-#column2of2 {
-	background-color: pink;
-	border: 1px black solid;
-	padding: 2%
-	float: center;
-	width: 50%
-}
-
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
-}
-
 footer {
-	text-align: center;
 	color: rgb(79,110,79);
 	font-style: normal;
 	font-family: 'Josefin Sans', sans-serif;
