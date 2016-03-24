@@ -11,8 +11,9 @@ header {
 	margin-top: 0 auto;
 	background-color: #FFFFFF;
 	border-color: #323232;
-	border-top-style: 1px solid;
-	border-bottom-style: 2px solid;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-width: 1px 0 2px 0;
 	border-left-style: none;
 	border-right-style: none;
 	padding: 1.25%;
