@@ -8,12 +8,12 @@ header {
 	font-size: 4.0em; /* 64px/16=4.0em */
 	font-weight: 600;
 	letter-spacing: 0.2em;
-	margin-top: 0 auto;
+	margin: auto 0 auto 0;
 	background-color: #FFFFFF;
 	border-color: #323232;
 	border-top-style: solid;
 	border-bottom-style: solid;
-	border-width: 1px 0 2px 0;
+	border-width: 1px 0 3px 0;
 	border-left-style: none;
 	border-right-style: none;
 	padding: 1.25%;
