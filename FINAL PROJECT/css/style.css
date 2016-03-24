@@ -11,6 +11,7 @@ header {
 	font-size: 4.0em; /* 64px/16=4.0em */
 	font-weight: 600;
 	letter-spacing: 0.2em;
+	width: auto;
 	margin: 0 auto 10px auto;
 	background-color: #FFFFFF;
 	border-color: #323232;
@@ -26,7 +27,9 @@ header {
 	font-size: 1.25em; /* 20px/16=1.0em */
 	font-weight: normal;
 	background-color: #FFFFFF;
-	border: 1px black solid;
+	border-color: #323232;
+	border-style: solid none solid none;
+	border-width: 1px 0 2px 0;
 	padding: 1.25%;
 }
 .tagline ul li {
