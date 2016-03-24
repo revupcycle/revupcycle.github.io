@@ -1,5 +1,19 @@
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,400italic,600,700);
 
+header {
+	text-align: center;
+	color: rgb(79,110,79);
+	font-style: normal;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 4.0em; /* 64px/16=4.0em */
+	font-weight: 600;
+	letter-spacing: 0.2em;
+	margin-top: 0 auto;
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	padding: 1.25%;
+}
+
 .tagline ul {
 	list-style-type: none;
 	text-align: center;
@@ -34,25 +48,11 @@ img.align-center {
 	box-shadow: 0 0 10px #777777;
 }
 
-header {
-	text-align: center;
-	color: rgb(79,110,79);
-	font-style: normal;
-	font-family: 'Josefin Sans', sans-serif;
-	font-size: 4.0em; /* 64px/16=4.0em */
-	font-weight: 600;
-	letter-spacing: 0.2em;
-	margin-top: 0 auto;
-	background-color: #FFFFFF;
-	border: 1px black solid;
-	padding: 1.25%;
-}
-
 #intro {
 	text-align: center;
 	width: 50%;
 	margin: 0 auto;
-	color: rgb(50,50,50);
+	color: rgb(79,110,79);
 	font-style: normal;
 	font-family: 'Josefin sans', sans-serif;
 	font-size: 1.25em; /* 20px/16=1.5em */
@@ -81,10 +81,10 @@ nav ul li {
 }
 nav ul li a {
 	text-decoration: none;
-	color: rgb(70,70,70);
+	color: rgb(79,110,79);
 }
 nav ul li a:hover {
-	color: rgb(68,94,68);
+	color: rgb(50,50,50);
 	font-style: italic;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 1.0em; /* 16px/16=1.0em */
@@ -127,7 +127,7 @@ nav ul li a:hover {
 
 footer {
 	text-align: center;
-	color: rgb(70,70,70);
+	color: rgb(79,110,79);
 	font-style: normal;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 0.8em; /* 12px/16=0.75em */
