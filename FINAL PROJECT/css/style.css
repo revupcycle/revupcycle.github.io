@@ -10,8 +10,11 @@ header {
 	letter-spacing: 0.2em;
 	margin-top: 0 auto;
 	background-color: #FFFFFF;
-	border-top-style: 1px black solid;
-	border-bottom-style: 2px black solid;
+	border-color: #323232;
+	border-top-style: 1px solid;
+	border-bottom-style: 2px solid;
+	border-left-style: none;
+	border-right-style: none;
 	padding: 1.25%;
 }
 
