@@ -59,7 +59,7 @@ img.align-center {
 }
 
 #intro {
-	width: 50%;
+	width: 40%;
 	margin: 0 auto 10px auto;
 	color: rgb(79,110,79);
 	font-style: normal;
@@ -68,6 +68,7 @@ img.align-center {
 	font-weight: normal;
 	line-height: 1.5em;
 	background-color: #FFFFFF;
+	border-color: #323232
 	border-style: solid none solid none;
 	border-width: 1px 0 1px 0;
 	padding: 1.25%;
@@ -80,9 +81,10 @@ nav ul {
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 1.25em; /* 20px/16=1.0em */
 	font-weight: normal;
-	width: 40%;
+	width: 30%;
 	margin: 0 auto 10px auto;
 	background-color: #FFFFFF;
+	border-color: #323232
 	border-style: solid none solid none;
 	border-width: 2px 0 1px 0;
 	padding: 1.25%;
@@ -112,9 +114,10 @@ footer {
 	font-weight: normal;
 	line-height: 0.16em;
 	background-color: #FFFFFF;
+	border-color: #323232
 	border-style: solid none solid none;
 	border-width: 3px 0 1px 0;
-	width: 25%;
+	width: 20%;
 	padding: 1.25%;
 	margin: 0 auto 10px auto;
 }
